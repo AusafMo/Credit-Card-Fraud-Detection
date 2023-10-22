@@ -1,6 +1,6 @@
 ## Classic and Early project of Credit Card Fraud Detection using various ML Algorithms.
 **NOTE** :
- Used SMOTE in imbalanced data.
+ Used SMOTE for imbalanced data.
 #### Overview of SMOTE:
  ```
     SMOTE, which stands for Synthetic Minority Over-sampling Technique, is a popular technique in the field of machine learning and data-imbalanced classification.
